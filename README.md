@@ -1,7 +1,7 @@
 # Daily Planner Project
 
 ## Overview
-A C++ program designed to help users manage tasks by priority, calculate time allocations, and convert between 12-hour and 24-hour formats. Developed as part of CS 135 coursework.
+A C++ program designed to help users manage tasks by priority, calculate time allocations, and convert between 12-hour and 24-hour formats.
 
 ## Features
 - Organizes tasks based on priority from a CSV file.
